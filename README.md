@@ -5,8 +5,9 @@
 <p>
  The purpose of creating the application is to practically use the skills of creating and implementing interfaces and the basics of 2D graphics.
  The entire surface of the form is occupied by a graphic area where the shapes of construction profiles and text area are presented.
+
+Each profile can be: 
 <ul>
- Each profile can be: 
  <li>displayed</li>
  <li>selected</li>
  <li>moved by the user with the left mouse button pressed (drag) </li>
