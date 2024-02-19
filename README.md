@@ -13,4 +13,5 @@ Each profile can be:
  <li>moved by the user with the left mouse button pressed (drag) </li>
 </ul>
  The application is designed in a way that allows for the easiest possible expansion by adding additional profiles.
+ Available construction shapes: Angle, C-Bar, Double T-Bar, Rectangular pipe, Rectangular triangle, T-Bar, Z-Bar, Circle, Text area.
 </p>
