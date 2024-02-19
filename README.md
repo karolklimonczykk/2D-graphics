@@ -44,7 +44,7 @@ Launching the application: <br/>
 <br />
 <br />
 Clicks and drags:  <br/>
-<img src="https://i.imgur.com/Moey6WP.png" alt="DragAndMove"/>
+<img src="https://i.imgur.com/Moey6WP.png" width="80%"  alt="DragAndMove"/>
 <br />
 <br />
 Time of drawning shapes on the application bar: <br/>
