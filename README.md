@@ -16,3 +16,38 @@ Each profile can be:
  Available construction shapes: Angle, C-Bar, Z-Bar, T-Bar, Double T-Bar, Rectangular pipe, Rectangular triangle,  Circle, Text area. <br>
  Each single construction profile can have a defined size, fill color, border color and position on the application screen.
 </p>
+<h2>Languages and Utilities Used</h2>
+
+- <b>Java</b> (SE 21 LTS)
+- <b>Java Swing</b> (GUI)
+
+<h2>Environments Used</h2>
+
+- <b>IntelliJ IDEA 2023.3.3</b>
+
+<h2>Libraries Used</h2>
+
+- javax.swing.*;
+- java.awt.*;
+- java.io.*;
+- java.util.*;
+
+<h2>Program walk-through:</h2>
+<p align="center">
+Diagram of shapes package: <br/>
+<img src="https://i.imgur.com/ZtRtR7i.png" width="80%" alt ="Interfaces"/>
+<br />
+<br />
+<p align="center">
+Launching the application: <br/>
+<img src="https://i.imgur.com/MeJEDbX.png" width="80%" alt ="App"/>
+<br />
+<br />
+Clicks and drags:  <br/>
+<img src="https://i.imgur.com/Moey6WP.png" alt="DragAndMove"/>
+<br />
+<br />
+Time of drawning shapes on the application bar: <br/>
+<img src="https://i.imgur.com/vcxnBUY.png" width="80%" alt="TimeOfDrawning"/>
+<br />
+<br />
