@@ -16,10 +16,6 @@ Each profile can be:
  Available construction shapes: Angle, C-Bar, Z-Bar, T-Bar, Double T-Bar, Rectangular pipe, Rectangular triangle,  Circle, Text area. <br>
  Each single construction profile can have a defined size, fill color, border color and position on the application screen.
 </p>
-<h2>Languages and Utilities Used</h2>
-
-- <b>Java</b> (SE 21 LTS)
-- <b>Java Swing</b> (GUI)
 
 <h2>Environments Used</h2>
 
